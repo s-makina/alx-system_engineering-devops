@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env
 # Configure web-02 to be identical to web-01
 # Add X-Served-By as the custom HTTP header
 # The value of the custom HTTP header must be the hostname of the server Nginx is running on
